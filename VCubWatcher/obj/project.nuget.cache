@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DlvMkfnOwISLdphTmMwme1GAdaa6DWGAP7teRqVp/12w10sm5AXab0qeY+2ncm9X6wGxd4pV1a+yRvHM5rXUew==",
+  "dgSpecHash": "jodCsQvn0mAUf2N30TqYzYSc9PxVYDJoMj/OOEAeAFskFIlHFKFR/LLYopcw4so8aWEB4ukCF0Vvs+0XByz0fA==",
   "success": true,
   "projectFilePath": "/home/adrien/Desktop/Ynov/poo-c#/VCubWatcher/VCubWatcher/VCubWatcher.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/adrien/.nuget/packages/system.text.json/5.0.1/system.text.json.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
