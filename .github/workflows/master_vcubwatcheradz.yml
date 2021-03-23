@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'vcubwatcheradz'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_931064915f6845a580c13dd2b1dc39a5 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ed84b9c961e44c80b423b1420537ba38 }}
         package: ${{env.DOTNET_ROOT}}/myapp 
